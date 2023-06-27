@@ -7,3 +7,11 @@ https://www.clariontech.com/blog/the-.net-revolution-an-overview-of-the-.net-fra
 https://dotnet-talk.com/dotnet-core-vs-framework-compilation.html
 https://auth0.com/blog/navigating-dotnet-maze/
 https://en.wikipedia.org/wiki/.NET_Framework_version_history
+
+.NET Framework is a Windows-only version of .NET for building any type of app that runs on Windows.
+
+The first version of the .Net framework was released in 2002. The version is called .Net framework 1.0 and the current version is 4.8.1.
+
+The .Net framework is used to create both console,window,web-based,webservice applications.
+
+The .Net framework also supports multiple programming language easy for developer.
